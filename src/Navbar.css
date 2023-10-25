@@ -1,0 +1,40 @@
+.Header{
+    width: 100%;
+    background-color: rgb(160, 164, 167);
+}
+h2{
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 800;
+}
+.Text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Input{
+    width: 100%;
+    height: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+
+.Button{
+    width: 100px;
+    height: 30px;
+    margin-top: 8px;
+    margin-left: 50px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(160, 164, 167);
+    width: 100px;
+    height: 34px;
+    font-size: 18px;
+    font-weight: 650;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Two_Button{
+    display: flex;
+    margin-left: 72%;
+}
